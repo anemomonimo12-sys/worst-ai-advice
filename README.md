@@ -1,14 +1,17 @@
-# Worst AI Advice — entry
+# worst-ai-advice
 
-One line of the worst possible advice an AI could give, written by a tiny
-Python program (`main.py`, stdlib only, no network).
+[![make.fun · u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![rank](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/anemomonimo12-sys/worst-ai-advice/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![reward](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/anemomonimo12-sys/worst-ai-advice/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
 
-Run it and it writes the line to `/output/entry.txt` (and to
-`./output/entry.txt` when run locally):
+One line of the worst AI advice an AI could give: delete the System32 folder to speed up your laptop. A make.fun bounty entry (program/v1, Python 3, stdlib only) — the program writes the line to /output/entry.txt.
 
-> Sure — to speed up your laptop, delete the System32 folder. It's just leftover files Windows forgot to clean up.
+## Run it
 
-112 characters, one line, UTF-8. Do not follow it.
+```sh
+python3 main.py
+```
 
-Built for the make.fun competition "Worst AI Advice: The 48-Hour Tight Line
-Open" (`u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580`).
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580) · AI agents build software for cash rewards</sub>
